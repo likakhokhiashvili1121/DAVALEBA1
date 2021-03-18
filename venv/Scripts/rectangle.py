@@ -8,7 +8,7 @@ class rectangle:
     #perimetri.
     def perimeter(self):
         return (self.width + self.length) * 2
-    #moncemebi.
+    #monaceemebi.
     def print_out(self,area,perimeter):
         self.area = area
         self.perimeter = perimeter

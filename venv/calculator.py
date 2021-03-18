@@ -23,5 +23,5 @@ class Calculator:
 s = Calculator(1,2)
 print(s.sum)
 print(s.substract)
-print(s.divide)
 print(s.multyply)
+print(s.divide)
